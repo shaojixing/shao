@@ -1,0 +1,4 @@
+d:\我的文档\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+d:\我的文档\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+d:\我的文档\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+d:\我的文档\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
